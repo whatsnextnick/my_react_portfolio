@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Project 1",
+      "description": "This is a brief description of Project 1.",
+      "deployedUrl": "http://example.com",
+      "repoUrl": "http://github.com/yourusername/project1",
+      "screenshotUrl": "http://example.com/screenshot1.jpg"
+    },
+    {
+      "title": "Project 2",
+      "description": "This is a brief description of Project 2.",
+      "deployedUrl": "http://example.com",
+      "repoUrl": "http://github.com/yourusername/project2",
+      "screenshotUrl": "http://example.com/screenshot2.jpg"
+    }
+    
+  ]
+  
